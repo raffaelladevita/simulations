@@ -1,0 +1,2 @@
+               cormo  |        BDX cormorino detector  |                     sector layer paddle  |200.0*KeV   |    4*ns   |    2*um   |    2*um   |    1*ns   |    1*ns   |     100   |     -20   |   10*ns  
+                veto  |            BDX cormorino veto  |                     sector veto channel  |200.0*KeV   |    4*ns   |    2*um   |    2*um   |    1*ns   |    1*ns   |     100   |     -20   |   10*ns  

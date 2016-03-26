@@ -1,0 +1,11 @@
+<gcard>
+	
+	<detector name="beamline"              factory="TEXT" variation="realityWithFT"/>
+
+
+
+	<option name="geometry" value="1400x1200"/>
+	<option name="NO_FIELD" value="all"/>
+
+<!--	<option name="EXEC_MACRO" value="vis.macro"/>-->
+</gcard>

@@ -1,0 +1,22 @@
+               cormo  |              bankid  |                                     cormo bank ID  |  100   |                  Di  
+               cormo  |              sector  |                                     sector number  |    1   |                  Di  
+               cormo  |               layer  |                                      layer number  |    2   |                  Di  
+               cormo  |              paddle  |                                     paddle number  |    3   |                  Di  
+               cormo  |                adcl  |                                              adcl  |    4   |                  Di  
+               cormo  |                adcr  |                                              adcr  |    5   |                  Di  
+               cormo  |                tdcl  |                                              tdcl  |    6   |                  Di  
+               cormo  |                tdcr  |                                              tdcr  |    7   |                  Di  
+               cormo  |                adcb  |                                              adcb  |    8   |                  Di  
+               cormo  |                adcf  |                                              adcf  |    9   |                  Di  
+               cormo  |                tdcb  |                                              tdcb  |   10   |                  Di  
+               cormo  |                tdcf  |                                              tdcf  |   11   |                  Di  
+               cormo  |                hitn  |                                        hit number  |   99   |                  Di  
+                veto  |              bankid  |                                      veto bank ID  |  200   |                  Di  
+                veto  |              sector  |                                     sector number  |    1   |                  Di  
+                veto  |                veto  |                                       veto number  |    2   |                  Di  
+                veto  |             channel  |                                    channel number  |    3   |                  Di  
+                veto  |                adc1  |                                              adc1  |    4   |                  Di  
+                veto  |                adc2  |                                              adc2  |    5   |                  Di  
+                veto  |                tdc1  |                                              tdc1  |    6   |                  Di  
+                veto  |                tdc2  |                                              tdc2  |    7   |                  Di  
+                veto  |                hitn  |                                        hit number  |   99   |                  Di  
